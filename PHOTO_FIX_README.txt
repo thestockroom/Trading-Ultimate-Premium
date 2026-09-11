@@ -1,0 +1,1 @@
+PHOTO FIX: Upload the complete ZIP contents to the GitHub Pages repository. Keep profile-1.jpg and profile-2.png in the repository root. Then redeploy GitHub Pages. Do not upload only index.html/style.css.
