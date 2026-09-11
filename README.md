@@ -1,2 +1,1 @@
-# Trading-Ultimate-Premium
-Education Purpose Only No Financial Advise ✅
+Fresh standalone TRADING ULTIMATE PREMIUM website. Includes login/signup starter flow, learning pages, team photos, YouTube, Telegram, WhatsApp Group and Exness Accounts links. No old THE STOCK ROOM files are included. Authentication is a browser-only starter; use a real auth provider for production. Educational use only.
